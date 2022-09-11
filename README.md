@@ -27,6 +27,10 @@ There are a few things untouched by the fix but these will have no impact on the
 
 After launching the game with the mod installed, edit `BepInEx\config\DreamfallChaptersUIFix.cfg` with your text editor of choice.
 
+## Credits
+
+- Uses [BepInEx 5](https://github.com/BepInEx/BepInEx)
+
 ## Changelog
 
 1.0.0:
